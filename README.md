@@ -12,3 +12,4 @@
 [![Physics-Informed ML](https://img.shields.io/badge/field-Physics--Informed%20ML-success)](#)
 
 A neural predictive engine that uses ERA5 data and physics to predict smoke concentrations.
+![Architecture of SmokeCastFNO](resources/SCFNO newarch-2.pdf)
